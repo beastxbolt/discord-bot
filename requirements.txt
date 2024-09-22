@@ -1,0 +1,10 @@
+discord
+asyncio
+pillow
+requests
+pyfiglet
+lyricsgenius
+youtube_dl
+selenium
+googletrans
+google-api-python-client
